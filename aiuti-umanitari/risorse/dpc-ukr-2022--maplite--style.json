@@ -6,19 +6,19 @@
 				"property": "icon",
 				"values": [{
 						"key": "Materiali e attrezzature campi di accoglienza",
-						"value": "url(https://raw.githubusercontent.com/pcm-dpc/ucraina-2022/main/Mappa%20aiuti%20umanitari/icone/tent_traccia_low_new.png)"
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/dati-ucraina-2022/master/aiuti-umanitari/risorse/icone/tent_traccia_low_new.png)"
 					},
 					{
 						"key": "Tensostrutture",
-						"value": "url(https://raw.githubusercontent.com/pcm-dpc/ucraina-2022/main/Mappa%20aiuti%20umanitari/icone/family_traccia_low.png)"
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/dati-ucraina-2022/master/aiuti-umanitari/risorse/icone/family_traccia_low.png)"
 					},
 					{
 						"key": "Mezzi",
-						"value": "url(https://raw.githubusercontent.com/pcm-dpc/ucraina-2022/main/Mappa%20aiuti%20umanitari/icone/vehicles_traccia_low.png)"
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/dati-ucraina-2022/master/aiuti-umanitari/risorse/icone/vehicles_traccia_low.png)"
 					},
 					{
 						"key": "Medicinali e forniture mediche",
-						"value": "url(https://raw.githubusercontent.com/pcm-dpc/ucraina-2022/main/Mappa%20aiuti%20umanitari/icone/first-aid-kit_traccia_low.png)"
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/dati-ucraina-2022/master/aiuti-umanitari/risorse/icone/first-aid-kit_traccia_low.png)"
 					}   
 				]
 			}
