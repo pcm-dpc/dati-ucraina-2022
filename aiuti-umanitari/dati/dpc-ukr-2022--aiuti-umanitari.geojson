@@ -22,14 +22,59 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          21.012230,
+          52.229675
+        ]
+      },
+      "properties": {
+        "Paese": "Polonia",
+        "Località": "Varsavia",
+        "Tipologia": "Missioni MedEvac/DisEvac",
+        "31/03/2022": "Descrizione: 10 pazienti trasportati in Italia con missione MedEvac/DisEvac"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.979790,
+          50.040150
+        ]
+      },
+      "properties": {
+        "Paese": "Polonia",
+        "Località": "Rzeszów",
+        "Tipologia": "Missioni MedEvac/DisEvac",
+        "08/03/2022": "Descrizione: 5 pazienti trasportati in Italia con missione MedEvac/DisEvac",
+        "09/03/2022": "Descrizione: 2 pazienti trasportati in Italia con missione MedEvac/DisEvac",
+        "14/03/2022": "Descrizione: 6 pazienti trasportati in Italia con missione MedEvac/DisEvac",
+        "16/03/2022": "Descrizione: 5 pazienti trasportati in Italia con missione MedEvac/DisEvac",
+        "18/03/2022": "Descrizione: 4 pazienti trasportati in Italia con missione MedEvac/DisEvac",
+        "20/03/2022": "Descrizione: 5 pazienti trasportati in Italia con missione MedEvac/DisEvac",
+        "21/03/2022": "Descrizione: 13 pazienti trasportati in Italia con missione MedEvac/DisEvac",
+        "26/03/2022": "Descrizione: 15 pazienti trasportati in Italia con missione MedEvac/DisEvac",
+        "28/03/2022": "Descrizione: 12 pazienti trasportati in Italia con missione MedEvac/DisEvac",
+        "02/04/2022": "Descrizione: 10 pazienti trasportati in Italia con missione MedEvac/DisEvac",
+        "03/04/2022": "Descrizione: 2 pazienti trasportati in Italia con missione MedEvac/DisEvac",
+        "08/04/2022": "Descrizione: 8 pazienti trasportati in Italia con missione MedEvac/DisEvac"
+
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           19.939605,
           50.061527
         ]
       },
       "properties": {
         "Paese": "Polonia",
-        "Località": "Cracow",
-        "Tipologia": "Materiali e attrezzature campi di accoglienza",
+        "Località": "Cracovia",
+        "Tipologia": "Materiali e attrezzature campi di accoglienza, Missioni MedEvac/DisEvac",
+        "13/03/2022": "Descrizione: 3 pazienti trasportati in Italia con missione MedEvac/DisEvac",
         "07/04/2022": "Descrizione: 3 cucine da campo / Valore: circa 400mila euro / Disponibilità: 1 ANPAS-Associazione Nazionale Pubbliche Assistenze, 1 SOS-Servizio Operativo Sanitario, 1 Regione Umbria / Ambito: accordi bilaterali / Destinazione finale: Ucraina (2), Polonia (1)"
       }
     },
