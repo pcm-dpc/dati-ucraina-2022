@@ -22,6 +22,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          27.587200,
+          47.159809
+        ]
+      },
+      "properties": {
+        "Paese": "Romania",
+        "Località": "Iași",
+        "Tipologia": "Missioni MedEvac-Medical Evacuation",
+        "21/04/2022": "Descrizione: trasporto in Italia di 5 pazienti con missione MedEvac"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           19.388190,
           50.298330
         ]
@@ -76,7 +92,8 @@
         "08/04/2022": "Descrizione: trasporto in Italia di 8 pazienti con missione MedEvac",
         "15/04/2022": "Descrizione: trasporto in Italia di 17 pazienti con missione MedEvac",
         "16/04/2022": "Descrizione: trasporto in Italia di 20 pazienti con missione MedEvac",
-        "18/04/2022": "Descrizione: trasporto in Italia di 4 pazienti con missione MedEvac"
+        "18/04/2022": "Descrizione: trasporto in Italia di 4 pazienti con missione MedEvac",
+        "22/04/2022": "Descrizione: trasporto in Italia di 4 pazienti con missione MedEvac"
       }
     },
     {
