@@ -38,6 +38,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          21.167970,
+          48.593670
+        ]
+      },
+      "properties": {
+        "Paese": "Slovacchia",
+        "Località": "Veľká Ida",
+        "Tipologia": "Mezzi",
+        "06/05/2022": "Descrizione: 45 mezzi antincendio / Valore: oltre 200mila euro / Donazione di: Corpo Nazionale dei Vigili del Fuoco / Ambito intervento: Meccanismo Unionale di Protezione Civile / Destinazione finale: Ucraina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           19.388190,
           50.298330
         ]
@@ -46,7 +62,7 @@
         "Paese": "Polonia",
         "Località": "Slawków Poludniowy",
         "Tipologia": "Beni di prima necessità",
-        "13/04/2022": "Descrizione: cibo, acqua, vestiti, coperte, medicinali, kit sanitari e altri beni di prima necessità / Donazione di: Toscana, Veneto, Piemonte, Confindustria / Ambito intervento: Accordi bilaterali / Destinazione finale: Ucraina"
+        "13/04/2022": "Descrizione: cibo, acqua, vestiti, coperte, medicinali, kit sanitari e altri beni di prima necessità / Valore: circa 1 milione e mezzo di euro / Donazione di: Toscana, Veneto, Piemonte, Confindustria / Ambito intervento: Accordi bilaterali / Destinazione finale: Ucraina"
       }
     },
     {
@@ -93,7 +109,10 @@
         "15/04/2022": "Descrizione: trasporto in Italia di 17 pazienti con missione MedEvac",
         "16/04/2022": "Descrizione: trasporto in Italia di 20 pazienti con missione MedEvac",
         "18/04/2022": "Descrizione: trasporto in Italia di 4 pazienti con missione MedEvac",
-        "22/04/2022": "Descrizione: trasporto in Italia di 4 pazienti con missione MedEvac"
+        "22/04/2022": "Descrizione: trasporto in Italia di 4 pazienti con missione MedEvac",
+        "29/04/2022": "Descrizione: trasporto in Italia di 4 pazienti con missione MedEvac",
+        "30/04/2022(1)": "Descrizione: trasporto in Italia di 10 pazienti con missione MedEvac",
+        "30/04/2022(2)": "Descrizione: trasporto in Italia di 4 pazienti con missione MedEvac"
       }
     },
     {
