@@ -22,6 +22,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          22.978010,
+          50.694920
+        ]
+      },
+      "properties": {
+        "Paese": "Polonia",
+        "Località": "Szczebrzeszyn",
+        "Tipologia": "Materiali elettrici",
+        "08/05/2022": "Descrizione: materiali elettrici / Valore: circa 40mila euro / Donazione di: TotalEnergies / Ambito intervento: Meccanismo Unionale di Protezione Civile / Destinazione finale: Ucraina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           27.587200,
           47.159809
         ]
@@ -46,7 +62,7 @@
         "Paese": "Slovacchia",
         "Località": "Veľká Ida",
         "Tipologia": "Mezzi",
-        "06/05/2022": "Descrizione: 45 mezzi antincendio / Valore: oltre 200mila euro / Donazione di: Corpo Nazionale dei Vigili del Fuoco / Ambito intervento: Meccanismo Unionale di Protezione Civile / Destinazione finale: Ucraina"
+        "08/05/2022": "Descrizione: 45 mezzi antincendio / Valore: oltre 200mila euro / Donazione di: Corpo Nazionale dei Vigili del Fuoco / Ambito intervento: Meccanismo Unionale di Protezione Civile / Destinazione finale: Ucraina"
       }
     },
     {
@@ -112,7 +128,8 @@
         "22/04/2022": "Descrizione: trasporto in Italia di 4 pazienti con missione MedEvac",
         "29/04/2022": "Descrizione: trasporto in Italia di 4 pazienti con missione MedEvac",
         "30/04/2022(1)": "Descrizione: trasporto in Italia di 10 pazienti con missione MedEvac",
-        "30/04/2022(2)": "Descrizione: trasporto in Italia di 4 pazienti con missione MedEvac"
+        "30/04/2022(2)": "Descrizione: trasporto in Italia di 4 pazienti con missione MedEvac",
+        "07/05/2022": "Descrizione: trasporto in Italia di 16 pazienti con missione MedEvac"
       }
     },
     {
@@ -210,9 +227,10 @@
       "properties": {
         "Paese": "Polonia",
         "Località": "Niemce",
-        "Tipologia": "Materiali e attrezzature campi di accoglienza",
+        "Tipologia": "Materiali e attrezzature campi di accoglienza, Materiali elettrici",
         "11/03/2022": "Descrizione: tende, letti e sacchi a pelo / Valore: circa 50mila euro / Donazione di: Ministero degli Affari Esteri e della Cooperazione Internazionale / Ambito intervento: Meccanismo Unionale di Protezione Civile / Destinazione finale: Ucraina",
-        "14/03/2022": "Descrizione: tende, letti e sacchi a pelo / Valore: circa 60mila euro / Donazione di: Ministero degli Affari Esteri e della Cooperazione Internazionale / Ambito intervento: Meccanismo Unionale di Protezione Civile / Destinazione finale: Ucraina"
+        "14/03/2022": "Descrizione: tende, letti e sacchi a pelo / Valore: circa 60mila euro / Donazione di: Ministero degli Affari Esteri e della Cooperazione Internazionale / Ambito intervento: Meccanismo Unionale di Protezione Civile / Destinazione finale: Ucraina",
+        "08/05/2022": "Descrizione: materiali elettrici / Valore: circa 40mila euro / Donazione di: TotalEnergies / Ambito intervento: Meccanismo Unionale di Protezione Civile / Destinazione finale: Ucraina"
       }
     },
     {
