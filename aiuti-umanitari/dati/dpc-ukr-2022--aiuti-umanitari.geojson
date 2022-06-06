@@ -136,7 +136,8 @@
         "19/05/2022": "Descrizione: trasporto in Italia di 1 paziente con missione MedEvac",
         "20/05/2022": "Descrizione: trasporto in Italia di 5 pazienti con missione MedEvac",
         "24/05/2022(1)": "Descrizione: trasporto in Italia di 3 pazienti con missione MedEvac",
-        "24/05/2022(2)": "Descrizione: trasporto in Italia di 1 paziente con missione MedEvac"
+        "24/05/2022(2)": "Descrizione: trasporto in Italia di 1 paziente con missione MedEvac",
+        "27/05/2022": "Descrizione: trasporto in Italia di 2 pazienti con missione MedEvac"
       }
     },
     {
@@ -252,8 +253,9 @@
       "properties": {
         "Paese": "Polonia",
         "Località": "Prochowice",
-        "Tipologia": "Materiali e attrezzature campi di accoglienza" ,
-        "03/03/2022": "Descrizione: 200 tende con letti e sacchi a pelo per circa mille persone / Valore: circa 2 milioni e mezzo di euro / Donazione di: Dipartimento della Protezione Civile e Ministero dell’Interno / Ambito intervento: Meccanismo Unionale di Protezione Civile / Destinazione finale: Ucraina"
+        "Tipologia": "Materiali e attrezzature campi di accoglienza, Materiali elettrici" ,
+        "03/03/2022": "Descrizione: 200 tende con letti e sacchi a pelo per circa mille persone / Valore: circa 2 milioni e mezzo di euro / Donazione di: Dipartimento della Protezione Civile e Ministero dell’Interno / Ambito intervento: Meccanismo Unionale di Protezione Civile / Destinazione finale: Ucraina",
+        "31/05/2022": "Descrizione: 4 generatori diesel / Valore: oltre 122mila euro / Donazione di: Chiesi Farmaceutici / Ambito intervento: Meccanismo Unionale di Protezione Civile / Destinazione finale: Ucraina"
       }
     },
     {
