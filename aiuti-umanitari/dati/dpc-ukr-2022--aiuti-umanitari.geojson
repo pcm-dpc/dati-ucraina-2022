@@ -29,7 +29,7 @@
       "properties": {
         "Paese": "Polonia",
         "Località": "Szczebrzeszyn",
-        "Tipologia": "Materiali elettrici",
+        "Tipologia": "Materiali elettrici e informatici",
         "08/05/2022": "Descrizione: materiali elettrici / Valore: circa 40mila euro / Donazione di: TotalEnergies / Ambito intervento: Meccanismo Unionale di Protezione Civile / Destinazione finale: Ucraina"
       }
     },
@@ -63,6 +63,22 @@
         "Località": "Veľká Ida",
         "Tipologia": "Mezzi",
         "08/05/2022": "Descrizione: 45 mezzi antincendio / Valore: oltre 200mila euro / Donazione di: Corpo Nazionale dei Vigili del Fuoco / Ambito intervento: Meccanismo Unionale di Protezione Civile / Destinazione finale: Ucraina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.259781,
+          48.717110
+        ]
+      },
+      "properties": {
+        "Paese": "Slovacchia",
+        "Località": "Košice",
+        "Tipologia": "Materiali elettrici e informatici",
+        "27/07/2022": "Descrizione: materiali elettrici / Valore: circa 310mila euro / Donazione di: Eni / Ambito intervento: Meccanismo Unionale di Protezione Civile / Destinazione finale: Ucraina"
       }
     },
     {
@@ -139,7 +155,8 @@
         "24/05/2022(2)": "Descrizione: trasporto in Italia di 1 paziente con missione MedEvac",
         "27/05/2022": "Descrizione: trasporto in Italia di 2 pazienti con missione MedEvac",
         "08/06/2022": "Descrizione: trasporto in Italia di 1 paziente con missione MedEvac",
-        "04/07/2022": "Descrizione: trasporto in Italia di 6 pazienti con missione MedEvac"
+        "04/07/2022": "Descrizione: trasporto in Italia di 6 pazienti con missione MedEvac",
+        "12/07/2022": "Descrizione: trasporto in Italia di 15 pazienti con missione MedEvac"
       }
     },
     {
@@ -237,7 +254,7 @@
       "properties": {
         "Paese": "Polonia",
         "Località": "Niemce",
-        "Tipologia": "Materiali e attrezzature campi di accoglienza, Materiali elettrici",
+        "Tipologia": "Materiali e attrezzature campi di accoglienza, Materiali elettrici e informatici",
         "11/03/2022": "Descrizione: tende, letti e sacchi a pelo / Valore: circa 50mila euro / Donazione di: Ministero degli Affari Esteri e della Cooperazione Internazionale / Ambito intervento: Meccanismo Unionale di Protezione Civile / Destinazione finale: Ucraina",
         "14/03/2022": "Descrizione: tende, letti e sacchi a pelo / Valore: circa 60mila euro / Donazione di: Ministero degli Affari Esteri e della Cooperazione Internazionale / Ambito intervento: Meccanismo Unionale di Protezione Civile / Destinazione finale: Ucraina",
         "08/05/2022": "Descrizione: materiali elettrici / Valore: circa 40mila euro / Donazione di: TotalEnergies / Ambito intervento: Meccanismo Unionale di Protezione Civile / Destinazione finale: Ucraina"
@@ -255,9 +272,11 @@
       "properties": {
         "Paese": "Polonia",
         "Località": "Prochowice",
-        "Tipologia": "Materiali e attrezzature campi di accoglienza, Materiali elettrici" ,
+        "Tipologia": "Materiali e attrezzature campi di accoglienza, Materiali elettrici e informatici" ,
         "03/03/2022": "Descrizione: 200 tende con letti e sacchi a pelo per circa mille persone / Valore: circa 2 milioni e mezzo di euro / Donazione di: Dipartimento della Protezione Civile e Ministero dell’Interno / Ambito intervento: Meccanismo Unionale di Protezione Civile / Destinazione finale: Ucraina",
-        "31/05/2022": "Descrizione: 4 generatori diesel / Valore: oltre 122mila euro / Donazione di: Chiesi Farmaceutici / Ambito intervento: Meccanismo Unionale di Protezione Civile / Destinazione finale: Ucraina"
+        "31/05/2022": "Descrizione: 4 generatori diesel / Valore: oltre 122mila euro / Donazione di: Chiesi Farmaceutici / Ambito intervento: Meccanismo Unionale di Protezione Civile / Destinazione finale: Ucraina",
+        "05/08/2022": "Descrizione: generatori elettrici / Valore: circa 92mila euro / Donazione di: Chiesi Farmaceutici / Ambito intervento: Meccanismo Unionale di Protezione Civile / Destinazione finale: Ucraina",
+        "08/08/2022": "Descrizione: materiali informatici / Valore: circa 77mila euro / Donazione di: Terna / Ambito intervento: Meccanismo Unionale di Protezione Civile / Destinazione finale: Ucraina"
       }
     },
     {
